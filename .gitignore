@@ -30,3 +30,10 @@
 *.exe
 *.out
 *.app
+
+spreadsheet/.vscode
+spreadsheet/.idea
+spreadsheet/cmake-build-debug
+spreadsheet/build
+spreadsheet/.cache
+spreadsheet/dist
