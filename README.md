@@ -41,6 +41,6 @@ sheet->ClearCell("B2"_pos);
 
 1. [С++17](https://en.cppreference.com/w/cpp/17)
 2. [GCC(MinGW-w64)](https://www.mingw-w64.org/) 11+ version requires
-5. [CMake](https://cmake.org) 3.8 version requires
-3. [Java JDK](https://www.oracle.com/java/technologies/downloads/)
-4. [ANTLR4](https://www.antlr.org/)
+3. [CMake](https://cmake.org) 3.8 version requires
+4. [Java JDK](https://www.oracle.com/java/technologies/downloads/)
+5. [ANTLR4](https://www.antlr.org/)
